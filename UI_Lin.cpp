@@ -71,7 +71,7 @@ void loginUI() {
 	cleardevice();
 
 	IMAGE Image;
-	loadimage(&Image, L".\\res\\logo.jpg", 150, 150, true);
+	loadimage(&Image, L".\\Report illustration\\logo.jpg", 150, 150, true);
 	putimage(200, 75, &Image, SRCCOPY);
 
 

@@ -1,1 +1,66 @@
-﻿  AcademicManagementSystem.vcxproj -> C:\Users\Lin\Desktop\Edu System New\x64\Debug\AcademicManagementSystem.exe
+﻿  UI_Lin.cpp
+D:\Github\Edu-Mgmt-Sys\ui.h(443,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(460,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(458,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(548,31): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(607,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(668,101): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(667,115): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(670,146): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(675,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(674,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(679,116): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(678,130): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(681,161): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(684,126): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(683,140): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(686,175): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(698,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(710,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(713,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(733,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(736,16): warning C4244: “初始化”: 从“unsigned __int64”转换到“double”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(728,16): warning C4101: “c”: 未引用的局部变量
+D:\Github\Edu-Mgmt-Sys\ui.h(728,19): warning C4101: “d”: 未引用的局部变量
+D:\Github\Edu-Mgmt-Sys\ui.h(816,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(817,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(818,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(819,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(820,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\UI_Lin.cpp(780,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\UI_Lin.cpp(781,18): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  ui.cpp
+D:\Github\Edu-Mgmt-Sys\ui.h(443,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(460,50): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(458,11): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(548,31): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(607,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(668,101): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(667,115): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(670,146): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(675,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(674,78): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(679,116): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(678,130): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(681,161): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(684,126): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(683,140): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(686,175): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(698,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(710,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(713,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(733,42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(736,16): warning C4244: “初始化”: 从“unsigned __int64”转换到“double”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(728,16): warning C4101: “c”: 未引用的局部变量
+D:\Github\Edu-Mgmt-Sys\ui.h(728,19): warning C4101: “d”: 未引用的局部变量
+D:\Github\Edu-Mgmt-Sys\ui.h(816,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(817,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(818,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(819,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.h(820,25): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.cpp(566,45): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.cpp(569,15): warning C4244: “初始化”: 从“unsigned __int64”转换到“double”，可能丢失数据
+D:\Github\Edu-Mgmt-Sys\ui.cpp(547,15): warning C4101: “c”: 未引用的局部变量
+D:\Github\Edu-Mgmt-Sys\ui.cpp(547,18): warning C4101: “d”: 未引用的局部变量
+  正在生成代码...
+  AcademicManagementSystem.vcxproj -> D:\Github\Edu-Mgmt-Sys\x64\Debug\AcademicManagementSystem.exe

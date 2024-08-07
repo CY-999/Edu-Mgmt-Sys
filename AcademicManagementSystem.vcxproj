@@ -31,9 +31,7 @@
     <ClCompile Include="course.cpp" />
     <ClCompile Include="file.cpp" />
     <ClCompile Include="io.cpp" />
-    <ClCompile Include="Ji.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="main_quality.cpp" />
     <ClCompile Include="quality.cpp" />
     <ClCompile Include="student.cpp" />
     <ClCompile Include="ui.cpp" />
@@ -41,11 +39,6 @@
     <ClCompile Include="UI_Lin.cpp" />
     <ClCompile Include="UI_Liu.cpp" />
     <ClCompile Include="UI_Zhang.cpp" />
-    <ClCompile Include="张.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Log\Log.log" />
-    <Text Include="Page.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

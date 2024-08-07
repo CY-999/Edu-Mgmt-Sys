@@ -72,9 +72,6 @@
     <ClCompile Include="student.cpp">
       <Filter>Student</Filter>
     </ClCompile>
-    <ClCompile Include="main_quality.cpp" />
-    <ClCompile Include="张.cpp" />
-    <ClCompile Include="Ji.cpp" />
     <ClCompile Include="UI_Lin.cpp">
       <Filter>UI</Filter>
     </ClCompile>
@@ -87,9 +84,5 @@
     <ClCompile Include="UI_Liu.cpp">
       <Filter>UI</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="Page.txt" />
-    <Text Include="Log\Log.log" />
   </ItemGroup>
 </Project>

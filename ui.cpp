@@ -278,7 +278,7 @@ void menuUI_Administrator(Node* admin, List adminList, List allStuList, Cpnode a
 	cleardevice();
 
 	IMAGE Image;
-	loadimage(&Image, L".\\res\\background.jpeg", 1500, 810, true);
+	loadimage(&Image, L".\\Report illustration\\background.jpeg", 1500, 810, true);
 	putimage(0, 0, &Image, SRCCOPY);
 
 	//drawLine();
@@ -438,7 +438,7 @@ void menuUI_Tch(Node* Tch, List TchList, Node* admin, List Admin_List, List allS
 	cleardevice();
 
 	IMAGE Image;
-	loadimage(&Image, L".\\res\\background.jpeg", 1500, 810, true);
+	loadimage(&Image, L".\\Report illustration\\background.jpeg", 1500, 810, true);
 	putimage(0, 0, &Image, SRCCOPY);
 
 	//drawLine();

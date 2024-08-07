@@ -1,1 +1,2 @@
 C:\Users\Lin\Desktop\Edu System New\x64\Debug\AcademicManagementSystem.exe
+D:\Github\Edu-Mgmt-Sys\x64\Debug\AcademicManagementSystem.exe
